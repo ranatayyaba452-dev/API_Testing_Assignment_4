@@ -52,7 +52,7 @@ Apache JMeter was used to perform basic performance testing of the API.
 
 The following components were created:
 
-```text
+text
 Test Plan
  └── Thread Group
       └── HTTP Request
