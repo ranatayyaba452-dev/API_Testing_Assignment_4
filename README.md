@@ -54,10 +54,10 @@ The following components were created:
 
 ## JMeter Test Plan includes:
 
--Thread Group
--HTTP Request
--View Results Tree
--Summary Report
+- Thread Group
+- HTTP Request
+- View Results Tree
+- Summary Report
 
 ## Thread Group Configuration
 
@@ -140,4 +140,4 @@ The JMeter test was performed using 10 users, a 5-second ramp-up period, and 5 l
 - GitHub
 
 ## Author
--LAIBA
+- LAIBA
