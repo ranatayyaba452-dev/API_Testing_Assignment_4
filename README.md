@@ -52,12 +52,13 @@ Apache JMeter was used to perform basic performance testing of the API.
 
 The following components were created:
 
-text
+'''''text
 Test Plan
  └── Thread Group
       └── HTTP Request
            ├── View Results Tree
            └── Summary Report
+           
 
 ## Thread Group Configuration
 
@@ -138,5 +139,6 @@ The JMeter test was performed using 10 users, a 5-second ramp-up period, and 5 l
 - Apache JMeter
 - JSONPlaceholder
 - GitHub
+
 ##Author
 -LAIBA
