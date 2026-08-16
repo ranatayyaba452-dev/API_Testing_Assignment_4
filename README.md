@@ -52,13 +52,11 @@ Apache JMeter was used to perform basic performance testing of the API.
 
 The following components were created:
 
-'''''text
-Test Plan
- └── Thread Group
-      └── HTTP Request
-           ├── View Results Tree
-           └── Summary Report
-           
+## JMeter Test Plan includes:
+-Thread Group
+-HTTP Request
+-View Results Tree
+-Summary Report
 
 ## Thread Group Configuration
 
